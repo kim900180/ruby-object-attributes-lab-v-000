@@ -1,4 +1,4 @@
-def Person
+def person
   def name
     @name
   end
